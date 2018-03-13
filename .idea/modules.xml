@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server_main.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server_test.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway_main.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway_test.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resource-server.iml" filepath="$PROJECT_DIR$/.idea/modules/resource-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-oauth2-zuul.iml" filepath="$PROJECT_DIR$/spring-oauth2-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui1.iml" filepath="$PROJECT_DIR$/.idea/modules/ui1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ui1_main.iml" group="ui1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ui1_test.iml" group="ui1" />
+    </modules>
+  </component>
+</project>
